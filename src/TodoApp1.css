@@ -22,12 +22,13 @@
     border-radius: 2px;
     padding: 10px;  
     background-color: whitesmoke;
+    margin: auto;
 }
 
 .Item p{
     margin: 0;
     font-family: "fantasy";
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .Item button{
